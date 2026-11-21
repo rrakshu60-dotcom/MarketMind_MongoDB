@@ -1,0 +1,29 @@
+row_id,category,country,customer_id,customer_name,discount,market,order_date,order_id,product_name,profit,quantity,sales,z_score,severity
+33994,Technology,United States,SM-20320,Sean Miller,0.5,US,2011-03-18,CA-2011-145317,Cisco TelePresence System EX90 Videoconferencing Unit,-1811.0784,6,22638.48,3.87,High
+38123,Technology,United States,TC-20980,Tamara Chand,0.0,US,2013-10-03,CA-2013-118689,Canon imageCLASS 2200 Advanced Copier,8399.976,5,17499.95,3.69,High
+39450,Technology,United States,RB-19360,Raymond Buch,0.0,US,2014-03-24,CA-2014-140151,Canon imageCLASS 2200 Advanced Copier,6719.9808,4,13999.96,3.54,High
+33920,Technology,United States,TA-21385,Tom Ashbrook,0.2,US,2014-10-23,CA-2014-127180,Canon imageCLASS 2200 Advanced Copier,3919.9888,4,11199.968,3.38,Elevated
+35487,Technology,United States,HL-15040,Hunter Lopez,0.0,US,2014-11-18,CA-2014-166709,Canon imageCLASS 2200 Advanced Copier,5039.9856,3,10499.97,3.33,Elevated
+40336,Office Supplies,United States,AB-10105,Adrian Barton,0.0,US,2013-12-18,CA-2013-117121,GBC Ibimaster 500 Manual ProClick Binding System,4946.37,13,9892.74,3.29,Elevated
+35395,Office Supplies,United States,SC-20095,Sanjit Chand,0.0,US,2011-09-23,CA-2011-116904,Ibico EPK-21 Electric Binding System,4630.4755,5,9449.95,3.26,Elevated
+35574,Technology,United States,BS-11365,Bill Shonely,0.0,US,2013-04-17,US-2013-107440,"3D Systems Cube Printer, 2nd Generation, Magenta",2365.9818,7,9099.93,3.23,Elevated
+39785,Technology,United States,SE-20110,Sanjit Engle,0.0,US,2013-02-02,CA-2013-158841,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",2799.984,5,8749.95,3.21,Elevated
+37722,Technology,United States,CC-12370,Christopher Conant,0.4,US,2013-05-24,CA-2013-143714,Canon imageCLASS 2200 Advanced Copier,1119.9968,4,8399.976,3.18,Elevated
+33802,Office Supplies,United States,KL-16645,Ken Lonsdale,0.0,US,2011-07-25,CA-2011-143917,High Speed Automatic Electric Letter Opener,327.506,5,8187.65,3.16,Elevated
+31462,Technology,United States,BM-11140,Becky Martin,0.4,US,2011-09-08,CA-2011-139892,Lexmark MX611dhe Monochrome Laser Printer,-1359.992,8,8159.952,3.16,Elevated
+31980,Technology,United States,GT-14635,Grant Thornton,0.5,US,2014-11-05,US-2014-168116,Cubify CubeX 3D Printer Triple Head Print,-3839.9904,4,7999.98,3.14,Elevated
+12069,Office Supplies,Italy,PJ-18835,Patrick Jones,0.0,EU,2014-09-08,ES-2014-1651774,"Hoover Stove, Red",3979.08,14,7958.58,3.14,Elevated
+37923,Technology,United States,TB-21400,Tom Boeckenhauer,0.0,US,2011-12-14,CA-2011-145541,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",2239.9872,4,6999.96,3.05,Elevated
+27720,Technology,Japan,CA-11965,Carol Adams,0.0,APAC,2011-02-10,ID-2011-64599,"Samsung Smart Phone, VoIP",2939.31,11,6998.64,3.05,Elevated
+13560,Office Supplies,Spain,ER-13855,Elpida Rittenbach,0.0,EU,2011-09-08,ES-2011-3248922,"Hamilton Beach Stove, Silver",2476.44,12,6517.08,3.0,Elevated
+30958,Technology,New Zealand,AS-10630,Ann Steele,0.0,APAC,2013-12-16,IN-2013-83191,"Motorola Smart Phone, Full Size",2447.1,10,6439.8,2.99,Elevated
+31806,Office Supplies,United States,CM-12385,Christopher Martinez,0.0,US,2012-03-16,CA-2012-145352,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,3177.475,5,6354.95,2.98,Elevated
+16681,Technology,United Kingdom,GT-14710,Greg Tran,0.0,EU,2012-12-13,ES-2012-5877219,"Motorola Smart Phone, Cordless",404.73,9,5785.02,2.92,Elevated
+28242,Furniture,Australia,SC-20305,Sean Christensen,0.1,APAC,2012-08-02,ID-2012-34884,"Hon Executive Leather Armchair, Black",-0.336,14,5759.964,2.91,Elevated
+23212,Technology,India,CA-12775,Cynthia Arntzen,0.0,APAC,2013-06-12,IN-2013-50809,"Apple Smart Phone, with Caller ID",2817.99,9,5751.54,2.91,Elevated
+25263,Technology,China,CM-12160,Charles McCrossin,0.0,APAC,2012-08-20,IN-2012-51810,"Apple Smart Phone, Full Size",630.99,9,5737.5,2.91,Elevated
+13879,Furniture,France,HG-14845,Harry Greene,0.1,EU,2014-11-19,ES-2014-3785216,"Hon Executive Leather Armchair, Adjustable",63.546,14,5729.346,2.91,Elevated
+19688,Technology,Spain,ML-17395,Marina Lichtenstein,0.1,EU,2013-06-04,IT-2013-4602742,"Samsung Smart Phone, VoIP",-445.44,10,5726.16,2.91,Elevated
+27407,Technology,China,Dp-13240,Dean percer,0.0,APAC,2011-11-11,IN-2011-35178,"Nokia Smart Phone, Cordless",1602.99,9,5725.35,2.91,Elevated
+12383,Technology,United Kingdom,MG-18145,Mike Gockenbach,0.0,EU,2012-05-29,ES-2012-5671193,"Nokia Smart Phone, Full Size",2461.32,9,5724.54,2.91,Elevated
+25795,Furniture,India,VG-21805,Vivek Grady,0.0,APAC,2014-09-26,IN-2014-76016,"Sauder Classic Bookcase, Traditional",2097.03,13,5667.87,2.9,Elevated

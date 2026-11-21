@@ -1,0 +1,11 @@
+customer_name,segment,country,last_purchase,customer_id,total_sales,total_profit,order_count,avg_order_value
+Tom Ashbrook,Home Office,United States,2014-12-13,TA-21385,35668.12,6274.99,25,1426.72
+Greg Tran,Consumer,United Kingdom,2014-12-23,GT-14710,34471.89,5164.85,30,1149.06
+Tamara Chand,Corporate,United States,2014-12-04,TC-20980,34218.27,8787.47,28,1222.08
+Sean Miller,Home Office,Dominican Republic,2014-12-10,SM-20320,31125.29,-1083.67,21,1482.16
+Bart Watters,Corporate,United States,2014-11-07,BW-11110,30613.62,3337.47,35,874.67
+Hunter Lopez,Consumer,Australia,2014-12-01,HL-15040,29664.23,7657.5,20,1483.21
+Sanjit Engle,Consumer,Germany,2014-12-22,SE-20110,29532.63,5863.62,36,820.35
+Penelope Sewall,Home Office,United States,2014-12-11,PS-19045,29252.32,4426.2,26,1125.09
+Raymond Buch,Consumer,Australia,2014-12-11,RB-19360,29197.63,8523.95,25,1167.91
+Zuschuss Carroll,Consumer,Germany,2014-12-28,ZC-21910,28472.82,452.5,37,769.54

@@ -1,0 +1,130 @@
+
+==============================================================================
+1. CONNECT TO MONGODB
+==============================================================================
+Connected to mongodb://localhost:27017 (server 8.0.23), database 'MarketMindDB'
+Collections: churn_predictions, customer_segments, import_log, product_recommendations, sales_analysis, sales_anomalies, sales_forecasts, sales_transactions
+
+==============================================================================
+2. STORED DATA: db.sales_transactions.countDocuments({})
+==============================================================================
+51,290 documents
+Sample document: {'_id': 32298, 'category': 'Technology', 'city': 'New York City', 'country': 'United States', 'customer_id': 'RH-19495', 'customer_name': 'Rick Hansen', 'discount': 0.0, 'market': 'US', 'order_date': datetime.datetime(2012, 7, 31, 0, 0), 'order_id': 'CA-2012-124891', 'order_month': 7, 'order_priority': 'Critical', 'order_year': 2012, 'postal_code': '10024', 'product_id': 'TEC-AC-10003033', 'product_name': 'Plantronics CS510 - Over-the-Head monaural Wireless Headset System', 'profit': 762.1845, 'quantity': 7, 'region': 'East', 'sales': 2309.65, 'segment': 'Consumer', 'ship_date': datetime.datetime(2012, 7, 31, 0, 0), 'ship_mode': 'Same Day', 'shipping_cost': 933.57, 'state': 'New York', 'sub_category': 'Accessories', 'unit_price': 329.95, 'year_month': '2012-07'}
+
+==============================================================================
+3. RETRIEVAL: find({customer_id: 'TB-11280'})
+==============================================================================
+  order_date      order_id                          product_name    sales   profit
+0 2011-01-01  AG-2011-2040                   Tenex Lockers, Blue  408.300  106.140
+1 2011-02-14  RS-2011-4710  Sanford Pencil Sharpener, Easy-Erase   27.090   13.530
+2 2011-02-24  CA-2011-8490         Fellowes Shelving, Wire Frame   56.910   23.310
+3 2012-08-14  ML-2012-2380             StarTech Inkjet, Wireless  301.770    9.030
+4 2012-12-18  TU-2012-6600       Logitech Keyboard, Programmable   59.160  -73.980
+5 2012-12-18  TU-2012-6600          SanDisk Memo Slips, Recycled    6.756   -3.234
+6 2013-01-23  IR-2013-4330         BIC Highlighters, Fluorescent   20.190    6.660
+7 2014-03-18   CA-2014-240           Eldon Lockers, Single Width  197.940   96.990
+
+==============================================================================
+4. RETRIEVAL: find({category: 'Technology', country: 'India'}).limit(5)
+==============================================================================
+  order_date     customer_name                       product_name    sales
+0 2014-12-31      Bill Shonely        Memorex Keyboard, Erganomic   276.60
+1 2014-12-17      Rick Bensley     Apple Signal Booster, Cordless  1813.50
+2 2014-12-15         Erin Mull  SanDisk Numeric Keypad, Bluetooth   110.70
+3 2014-12-08  Richard Eichhorn                Konica Phone, White   676.80
+4 2014-12-04    Craig Carreira            Konica Inkjet, Wireless   940.32
+
+==============================================================================
+5. RETRIEVAL: date range 2014-12-01 .. 2014-12-07
+==============================================================================
+490 transactions, revenue $111,222.48
+
+==============================================================================
+6. AGGREGATION: overall KPIs ($group)
+==============================================================================
+  total_transactions       51290
+  total_quantity           178312
+  first_date               2011-01-01 00:00:00
+  last_date                2014-12-31 00:00:00
+  total_revenue            12642501.91
+  total_profit             1467457.29
+  avg_transaction_value    246.49
+  total_customers          1590
+  total_orders             25035
+  total_products           10292
+  total_countries          147
+  profit_margin_pct        11.61
+  avg_order_value          504.99
+
+==============================================================================
+7. AGGREGATION: revenue by category ($group + $sort)
+==============================================================================
+          category     revenue     profit  revenue_share_pct
+0       Technology  4744557.50  663778.73              37.53
+1        Furniture  4110874.19  285204.72              32.52
+2  Office Supplies  3787070.23  518473.83              29.96
+
+==============================================================================
+8. AGGREGATION: top 5 countries
+==============================================================================
+         country     revenue  orders  revenue_share_pct
+0  United States  2297200.86    5009              18.17
+1      Australia   925235.85    1420               7.32
+2         France   858931.08    1222               6.79
+3          China   700562.03     925               5.54
+4        Germany   628840.03     907               4.97
+
+==============================================================================
+9. AGGREGATION: top 10 products by revenue ($group + $sort + $limit)
+==============================================================================
+                              product_name    category  total_sales  total_quantity
+0             Apple Smart Phone, Full Size  Technology     86935.78             171
+1             Cisco Smart Phone, Full Size  Technology     76441.53             139
+2          Motorola Smart Phone, Full Size  Technology     73156.30             134
+3             Nokia Smart Phone, Full Size  Technology     71904.56             147
+4    Canon imageCLASS 2200 Advanced Copier  Technology     61599.82              20
+5  Hon Executive Leather Armchair, Adju...   Furniture     58193.48             169
+6  Office Star Executive Leather Armcha...   Furniture     50661.68             141
+7  Harbour Creations Executive Leather ...   Furniture     50121.52             142
+8            Samsung Smart Phone, Cordless  Technology     48653.46             108
+9        Nokia Smart Phone, with Caller ID  Technology     47877.79              96
+
+==============================================================================
+10. AGGREGATION: last 6 months with growth
+==============================================================================
+   year_month    revenue  growth_pct    trend
+42    2014-07  258705.68      -35.62  decline
+43    2014-08  456619.94       76.50   growth
+44    2014-09  481157.24        5.37   growth
+45    2014-10  422766.63      -12.14  decline
+46    2014-11  555279.03       31.34   growth
+47    2014-12  503143.69       -9.39  decline
+
+==============================================================================
+11. AGGREGATION: top 5 customers
+==============================================================================
+  customer_id customer_name             country  total_sales
+0    TA-21385  Tom Ashbrook       United States     35668.12
+1    GT-14710     Greg Tran      United Kingdom     34471.89
+2    TC-20980  Tamara Chand       United States     34218.27
+3    SM-20320   Sean Miller  Dominican Republic     31125.29
+4    BW-11110  Bart Watters       United States     30613.62
+
+==============================================================================
+12. STORED ML RESULTS
+==============================================================================
+  sales_forecasts                30 documents
+  customer_segments             793 documents
+  churn_predictions             793 documents
+  sales_anomalies                50 documents
+  product_recommendations     8,263 documents
+
+First week of the stored forecast:
+   forecast_date  predicted_sales
+0    2015-01-01          1305.53
+1    2015-01-02          1354.46
+2    2015-01-03           702.25
+3    2015-01-04           195.77
+4    2015-01-05           810.29
+5    2015-01-06           579.50
+6    2015-01-07           642.06

@@ -1,0 +1,794 @@
+customer_id,TotalSpending,PurchaseFrequency,AverageOrderValue,customer_name,cluster,segment_name,strategy
+SM-20320,25043.05,15,1669.5366666666666,Sean Miller,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+TC-20980,19052.218,12,1587.6848333333335,Tamara Chand,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+RB-19360,15117.339,18,839.8521666666667,Raymond Buch,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+TA-21385,14595.62,10,1459.5620000000001,Tom Ashbrook,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AB-10105,14473.571,20,723.67855,Adrian Barton,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+KL-16645,14175.229,29,488.801,Ken Lonsdale,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SC-20095,14142.334,22,642.8333636363636,Sanjit Chand,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+HL-15040,12873.297999999999,11,1170.2998181818182,Hunter Lopez,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SE-20110,12209.438,19,642.602,Sanjit Engle,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CC-12370,12129.072,11,1102.6429090909091,Christopher Conant,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+TS-21370,11891.751,15,792.7834,Todd Sumrall,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+GT-14710,11820.12,29,407.59034482758625,Greg Tran,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+BM-11140,11789.630000000001,16,736.8518750000001,Becky Martin,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SV-20365,11470.95,32,358.4671875,Seth Vernon,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CJ-12010,11164.974,20,558.2487,Caroline Jumper,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CL-12565,10880.546,28,388.5909285714286,Clay Ludtke,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+ME-17320,10663.728000000001,22,484.71490909090915,Maria Etezadi,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+KF-16285,10604.266,18,589.1258888888889,Karen Ferguson,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+BS-11365,10501.653,9,1166.8503333333333,Bill Shonely,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+EH-13765,10310.880000000001,32,322.21500000000003,Edward Hooks,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JL-15835,9799.923,34,288.23302941176473,John Lee,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GT-14635,9351.212,6,1558.5353333333333,Grant Thornton,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+HW-14935,9300.254,20,465.01270000000005,Helen Wasserman,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+TB-21400,9133.99,17,537.2935294117647,Tom Boeckenhauer,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+PF-19120,9062.864,19,476.99284210526315,Peter Fuller,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CM-12385,8954.02,10,895.402,Christopher Martinez,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JD-16150,8828.0305,17,519.2959117647059,Justin Deggeller,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JE-15715,8697.843,22,395.35650000000004,Joe Elijah,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+LA-16780,8673.222,26,333.5854615384615,Laura Armstrong,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PK-19075,8646.934,25,345.87735999999995,Pete Kriz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DR-12940,8350.868,13,642.3744615384616,Daniel Raglin,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+NF-18385,8322.826,14,594.4875714285714,Natalie Fritzler,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+KD-16270,8282.358,16,517.647375,Karen Daniels,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+NC-18535,8241.739,15,549.4492666666666,Nick Crebassa,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+HM-14860,8236.7648,20,411.83824000000004,Harry Marie,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+KD-16495,8181.256,28,292.1877142857143,Keith Dawkins,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SB-20290,8057.891,17,473.9935882352941,Sean Braxton,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+ZC-21910,8025.707,31,258.8937741935484,Zuschuss Carroll,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JH-15985,7954.9980000000005,14,568.2141428571429,Joseph Holt,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+NP-18700,7903.1825,13,607.9371153846154,Nora Preis,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AH-10690,7888.294,23,342.9693043478261,Anna Häberlin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AB-10060,7755.62,18,430.86777777777775,Adam Bellavance,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JE-15610,7754.976,20,387.74879999999996,Jim Epp,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JW-15220,7721.714,14,551.551,Jane Waco,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+LC-16885,7663.126,23,333.17939130434786,Lena Creighton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JM-15865,7625.076,13,586.5443076923077,John Murray,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JD-15895,7610.8640000000005,32,237.83950000000002,Jonathan Doherty,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PO-18850,7473.8282,22,339.7194636363636,Patrick O'Brill,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MS-17365,7443.6900000000005,24,310.15375,Maribeth Schnelling,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RW-19540,7397.401,23,321.6261304347826,Rick Wilson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BM-11650,7294.185,29,251.5236206896552,Brian Moss,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PP-18955,7252.608,34,213.312,Paul Prost,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NW-18400,7234.014,22,328.8188181818182,Natalie Webber,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+Dp-13240,7198.761,29,248.2331379310345,Dean percer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FH-14365,6987.196,13,537.4766153846153,Fred Hopkins,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+RH-19510,6979.18,12,581.5983333333334,Rick Huthwaite,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+PS-19045,6843.634,13,526.4333846153846,Penelope Sewall,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+BB-11545,6765.728,20,338.2864,Brenda Bowman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JE-15745,6760.815,23,293.94847826086954,Joel Eaton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+YS-21880,6720.4439999999995,12,560.0369999999999,Yana Sorensen,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AR-10540,6608.448,9,734.272,Andy Reiter,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+DR-12880,6528.034,24,272.00141666666667,Dan Reichenbach,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GK-14620,6497.27,14,464.09071428571434,Grace Kelly,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JA-15970,6491.026,24,270.45941666666664,Joseph Airdo,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NM-18445,6459.344,14,461.3817142857143,Nathan Mautz,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+VD-21670,6442.254,16,402.640875,Valerie Dominguez,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SB-20185,6410.996,12,534.2496666666667,Sarah Brown,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+JG-15160,6366.392,18,353.68844444444443,James Galang,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DM-13015,6345.103,20,317.25515,Darrin Martin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CM-12655,6339.5576,10,633.95576,Corinna Mitchell,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+MJ-17740,6320.746,15,421.38306666666665,Max Jones,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BH-11710,6255.351,24,260.63962499999997,Brosina Hoffman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RL-19615,6234.91,24,259.78791666666666,Rob Lucas,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+WB-21850,6160.102,37,166.48924324324324,William Brown,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+VW-21775,6134.0380000000005,18,340.77988888888893,Victoria Wilson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SD-20485,6121.114,21,291.481619047619,Shirley Daniels,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+QJ-19255,6108.338,13,469.8721538461538,Quincy Jones,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AD-10180,6106.88,12,508.9066666666667,Alan Dominguez,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CB-12025,6076.139,26,233.69765384615386,Cassandra Brandow,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GM-14695,6049.966,11,549.9969090909091,Greg Maxwell,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SC-20380,5992.536,20,299.6268,Shahid Collister,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KH-16690,5990.799,15,399.3866,Kristen Hastings,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RM-19675,5979.0960000000005,11,543.5541818181819,Robert Marley,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+KH-16510,5952.859,23,258.81995652173913,Keith Herrera,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BF-11170,5907.972,27,218.81377777777777,Ben Ferrer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CP-12340,5888.275,15,392.5516666666666,Christine Phan,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BD-11320,5718.521,19,300.9747894736842,Bill Donatelli,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CS-12505,5690.054999999999,9,632.2283333333332,Cindy Stewart,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AM-10705,5664.022,22,257.4555454545455,Anne McFarland,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RB-19795,5633.316,18,312.962,Ross Baird,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KM-16375,5620.186,20,281.0093,Katherine Murray,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AA-10315,5563.56,11,505.77818181818185,Alex Avila,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SM-20950,5563.392,22,252.88145454545455,Suzanne McNair,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NP-18325,5529.62,21,263.3152380952381,Naresj Patel,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AC-10450,5527.846,9,614.205111111111,Amy Cox,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+MH-18115,5503.093,22,250.1405909090909,Mick Hernandez,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DP-13390,5480.723999999999,14,391.4802857142857,Dennis Pardue,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EP-13915,5478.0608,31,176.71163870967743,Emily Phan,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+YC-21895,5454.35,8,681.79375,Yoseph Carroll,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SP-20620,5440.319,24,226.67995833333336,Stefania Perrino,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LW-17215,5420.514,15,361.3676,Luke Weiss,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CP-12085,5402.254,14,385.8752857142857,Cathy Prescott,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TS-21205,5371.09,19,282.68894736842105,Thomas Seio,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TT-21460,5364.808,14,383.20057142857144,Tonja Turnell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MW-18220,5341.900000000001,14,381.56428571428575,Mitch Webber,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TP-21415,5329.0048,10,532.90048,Tom Prescott,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+TW-21025,5278.826,12,439.9021666666667,Tamara Willingham,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DW-13480,5271.628,11,479.2389090909091,Dianna Wilson,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+MW-18235,5253.876,3,1751.2920000000001,Mitch Willingham,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+HR-14830,5248.787,14,374.91335714285714,Harold Ryan,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20725,5226.21,26,201.0080769230769,Steven Cartwright,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RP-19390,5153.084,25,206.12336,Resi Pölking,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LR-16915,5142.892,16,321.43075,Lena Radford,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MP-18175,5087.92,19,267.78526315789475,Mike Pelletier,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AA-10645,5086.935,18,282.6075,Anna Andreadi,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+IL-15100,5040.736,14,360.0525714285714,Ivan Liston,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KL-16555,5016.488,22,228.02218181818182,Kelly Lampkin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LB-16795,4985.676,24,207.7365,Laurel Beltran,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DH-13075,4932.872,23,214.47269565217394,Dave Hallsten,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+IM-15070,4930.474,21,234.7844761904762,Irene Maddox,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TT-21070,4915.602,14,351.11442857142856,Ted Trevino,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KM-16720,4909.472,28,175.33828571428572,Kunst Miller,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PO-19180,4893.043,18,271.8357222222222,Philisse Overcash,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+HK-14890,4877.784,15,325.18559999999997,Heather Kirkland,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AJ-10780,4867.344,15,324.4896,Anthony Jacobs,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-15730,4867.2,20,243.35999999999999,Joe Kamberova,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AH-10210,4805.344,13,369.64184615384613,Alan Hwang,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DK-13225,4802.394,19,252.75757894736844,Dean Katz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RA-19915,4793.543,22,217.88831818181816,Russell Applegate,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SA-20830,4767.3415,21,227.01626190476193,Sue Ann Reed,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-15640,4760.434,12,396.70283333333333,Jim Kriz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BW-11110,4750.358,17,279.4328235294118,Bart Watters,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TB-21520,4737.486,20,236.8743,Tracy Blumstein,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GB-14575,4716.288,16,294.768,Giulietta Baptist,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RB-19465,4715.466,23,205.02026086956522,Rick Bensley,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+ES-14080,4657.924,20,232.8962,Erin Smith,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-13270,4655.897,13,358.14592307692305,Deborah Brumfield,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KT-16480,4642.088400000001,13,357.0837230769231,Kean Thornton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20050,4624.572,15,308.3048,Sample Company A,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EM-14140,4588.436,21,218.49695238095237,Eugene Moren,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-13060,4531.646,13,348.58815384615383,Dave Brooks,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AR-10825,4523.336,13,347.9489230769231,Anthony Rawles,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AG-10900,4510.7970000000005,21,214.79985714285718,Arthur Gainer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AJ-10795,4501.391,21,214.35195238095235,Anthony Johnson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LC-16930,4492.946,14,320.9247142857143,Linda Cazamias,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20770,4492.657,21,213.93604761904763,Stewart Carmichael,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TP-21130,4454.0560000000005,16,278.37850000000003,Theone Pippenger,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MC-17425,4432.138,10,443.2138,Mark Cousins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JK-15205,4427.142,13,340.5493846153846,Jamie Kunitz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KW-16435,4416.52,10,441.65200000000004,Katrina Willman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11500,4411.2429999999995,10,441.12429999999995,Bradley Drucker,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AI-10855,4375.786,18,243.09922222222224,Arianne Irving,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20230,4371.958,11,397.45072727272725,Scot Coram,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EB-13840,4358.128,8,544.766,Ellis Ballard,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+GZ-14470,4355.150000000001,14,311.0821428571429,Gary Zandusky,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SR-20740,4345.886,12,362.1571666666667,Steven Roelle,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+ND-18370,4326.139,18,240.34105555555556,Natalie DeCherney,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MA-17560,4299.161,34,126.44591176470588,Matt Abelman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SP-20860,4282.94,24,178.45583333333332,Sung Pak,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DK-12895,4282.176,15,285.4784,Dana Kaydos,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RD-19480,4272.93,15,284.862,Rick Duston,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TC-21295,4266.812,16,266.67575,Toby Carlisle,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AS-10225,4260.784000000001,13,327.7526153846154,Alan Schoenberger,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FH-14275,4256.272,21,202.67961904761904,Frank Hawley,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CB-12535,4246.4555,19,223.49765789473685,Claudia Bergmann,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TH-21550,4234.0960000000005,13,325.6996923076923,Tracy Hopkins,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BE-11335,4204.676,9,467.1862222222223,Bill Eplett,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JF-15565,4198.332,16,262.39575,Jill Fjeld,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GH-14425,4172.8460000000005,10,417.28460000000007,Gary Hwang,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RS-19765,4159.7699999999995,14,297.12642857142856,Roland Schwarz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MY-18295,4152.696,21,197.74742857142857,Muhammed Yedwab,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PM-19135,4115.662,7,587.9517142857143,Peter McVee,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+SV-20785,4105.305,25,164.21220000000002,Stewart Visinsky,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DM-13345,4074.4719999999998,13,313.42092307692303,Denise Monton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FP-14320,4046.746,14,289.0532857142857,Frank Preis,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SP-20920,3990.689,14,285.0492142857143,Susan Pistek,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CM-12715,3984.4524,13,306.49633846153847,Craig Molinari,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MP-17965,3983.6420000000003,20,199.18210000000002,Michael Paige,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20305,3979.065,12,331.58875,Sean Christensen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SJ-20125,3949.656,24,164.569,Sanjit Jacobs,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LF-17185,3930.509,16,245.6568125,Luke Foster,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PW-19240,3922.415,12,326.86791666666664,Pierre Wener,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GA-14515,3919.7760000000003,14,279.98400000000004,George Ashbrook,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KH-16630,3918.966,17,230.52741176470587,Ken Heidel,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CC-12220,3913.418,22,177.88263636363638,Chris Cortes,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-13555,3908.8028,14,279.2002,Dorothy Badders,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NP-18670,3908.402,10,390.8402,Nora Paige,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KC-16540,3908.2619999999997,5,781.6524,Kelly Collister,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+FC-14335,3889.366,10,388.9366,Fred Chung,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BS-11380,3887.834,13,299.06415384615383,Bill Stewart,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JS-15880,3868.02,9,429.78,John Stevenson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RA-19885,3832.3140000000003,15,255.48760000000001,Ruben Ausman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AT-10735,3831.864,16,239.4915,Annie Thurman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+OT-18730,3818.624,10,381.8624,Olvera Toch,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RO-19780,3815.478,12,317.9565,Rose O'Brian,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MC-17845,3805.714,14,271.83671428571427,Michael Chen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MM-17920,3794.0800000000004,16,237.13000000000002,Michael Moore,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CA-11965,3789.7228,10,378.97228,Carol Adams,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-17650,3785.276,14,270.37685714285715,Matthew Grinstein,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MD-17350,3766.382,17,221.5518823529412,Maribeth Dona,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-15625,3760.028,12,313.33566666666667,Jim Karlsson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-16090,3747.668,9,416.4075555555556,Juliana Krohn,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+FM-14290,3736.198,20,186.8099,Frank Merwin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20260,3729.7929999999997,18,207.21072222222222,Scott Cohen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+HG-15025,3690.284,11,335.4803636363636,Hunter Glantz,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11185,3675.861,18,204.2145,Ben Peterman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LP-17095,3653.399,15,243.55993333333333,Liz Preis,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CS-12400,3651.8585000000003,14,260.8470357142857,Christopher Schild,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EB-13705,3644.978,12,303.7481666666667,Ed Braxton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JP-15520,3635.594,16,227.224625,Jeremy Pistek,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SZ-20035,3625.329,20,181.26645000000002,Sam Zeldin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RH-19495,3621.376,8,452.672,Rick Hansen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21175,3589.296,11,326.29963636363635,Thomas Boland,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GM-14440,3582.8199999999997,11,325.71090909090907,Gary McGarr,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DL-13495,3539.322,12,294.94350000000003,Dionis Lloyd,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ES-14020,3510.4579999999996,8,438.80724999999995,Erica Smith,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RW-19690,3495.646,15,233.04306666666668,Robert Waldorf,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AG-10675,3489.0396,15,232.60264,Anna Gayman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+ED-13885,3484.92,14,248.92285714285714,Emily Ducich,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PW-19030,3454.916,13,265.76276923076927,Pauline Webber,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SF-20200,3422.786,15,228.18573333333333,Sarah Foster,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FC-14245,3418.7419999999997,14,244.19585714285714,Frank Carlisle,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SH-19975,3406.8395,29,117.47722413793103,Sally Hughsby,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SG-20080,3406.5809999999997,11,309.6891818181818,Sandra Glassco,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21655,3368.094,14,240.57814285714286,Trudy Schmidt,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20020,3362.9636,17,197.8213882352941,Sam Craven,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+VP-21760,3360.526,14,240.03757142857143,Victoria Pisteka,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DJ-13630,3356.398,8,419.54975,Doug Jacobs,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DV-13465,3341.587,15,222.77246666666667,Dianna Vittorini,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SF-20965,3336.5350000000003,17,196.26676470588237,Sylvia Foulston,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DC-12850,3336.168,18,185.34266666666667,Dan Campbell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AP-10915,3323.556,31,107.21148387096774,Arthur Prichep,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DK-13375,3318.486,23,144.28199999999998,Dennis Kane,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KH-16330,3312.864,18,184.048,Katharine Harms,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RF-19345,3309.15,16,206.821875,Randy Ferguson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RR-19525,3302.2619999999997,10,330.22619999999995,Rick Reed,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11605,3288.471,20,164.42355,Brian Dahlen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BS-11665,3288.11,11,298.9190909090909,Brian Stugart,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RW-19630,3279.746,16,204.984125,Rob Williams,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DL-12925,3272.2000000000003,14,233.72857142857146,Daniel Lacy,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DK-12835,3256.48,27,120.61037037037038,Damala Kotsonis,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AS-10090,3255.31,25,130.2124,Adam Shillingsburg,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JO-15145,3254.949,13,250.3806923076923,Jack O'Briant,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AH-10075,3250.337,20,162.51685,Adam Hart,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+HG-14965,3247.642,17,191.03776470588235,Henry Goldwyn,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LC-16960,3246.626,7,463.8037142857143,Lindsay Castell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CT-11995,3241.898,18,180.10544444444446,Carol Triggs,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EB-13750,3236.314,20,161.8157,Edward Becker,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SR-20425,3233.481,9,359.27566666666667,Sharelle Roach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LW-16990,3230.308,11,293.66436363636365,Lindsay Williams,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RS-19420,3221.29,9,357.9211111111111,Ricardo Sperren,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AS-10285,3214.236,8,401.7795,Alejandro Savely,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MP-17470,3206.132,14,229.00942857142857,Mark Packer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CS-12355,3202.1620000000003,22,145.5528181818182,Christine Sundaresam,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BT-11680,3196.752,20,159.8376,Brian Thompson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DG-13300,3195.818,8,399.47725,Deirdre Greer,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JL-15505,3173.874,17,186.6984705882353,Jeremy Lonsdale,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GM-14680,3163.628,11,287.60254545454546,Greg Matthias,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JM-15250,3159.122,19,166.26957894736842,Janet Martin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CK-12205,3154.855,32,98.58921875,Chloris Kastensmidt,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KB-16240,3152.615,10,315.26149999999996,Karen Bern,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MS-17770,3144.678,19,165.5093684210526,Maxwell Schwartz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RD-19900,3133.924,21,149.2344761904762,Ruben Dartt,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TN-21040,3130.221,12,260.85175,Tanja Norvell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SN-20710,3127.9592,19,164.62943157894736,Steve Nguyen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SG-20605,3124.8320000000003,13,240.37169230769234,Speros Goranitis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KH-16360,3100.612,14,221.47228571428573,Katherine Hughes,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PG-18820,3086.907,26,118.72719230769232,Patrick Gardner,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EH-14125,3082.653,18,171.2585,Eugene Hildebrand,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GM-14455,3078.624,12,256.55199999999996,Gary Mitchum,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EB-14110,3071.126,11,279.19327272727276,Eugene Barchas,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-18145,3061.543,8,382.692875,Mike Gockenbach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TG-21310,3058.372,9,339.8191111111111,Toby Gnade,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KT-16465,3057.1,14,218.3642857142857,Kean Takahito,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SS-20410,3056.807,12,254.73391666666666,Shahid Shariari,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SL-20155,3053.012,9,339.22355555555555,Sara Luxemburg,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AS-10045,3050.692,10,305.0692,Aaron Smayling,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CA-12775,3041.566,17,178.9156470588235,Cynthia Arntzen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CS-11950,3036.547,22,138.02486363636365,Carlos Soltero,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LS-16975,2988.674,22,135.8488181818182,Lindsay Shagiari,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MH-18025,2984.948,10,298.4948,Michelle Huthwaite,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+FA-14230,2984.054,17,175.53258823529413,Frank Atkinson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-13120,2973.094,14,212.36385714285714,David Bremer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NS-18640,2964.823,26,114.03165384615384,Noel Staavos,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TM-21010,2955.226,19,155.5382105263158,Tamara Manning,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CK-12325,2945.321,12,245.44341666666665,Christine Kargatis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TH-21115,2942.772,9,326.9746666666667,Thea Hudgings,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LT-17110,2936.252,14,209.73228571428572,Liz Thompson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BC-11125,2933.676,18,162.982,Becky Castell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-16120,2932.484,17,172.4990588235294,Julie Kriz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SW-20455,2921.544,9,324.616,Shaun Weien,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ML-17410,2921.5,15,194.76666666666668,Maris LaWare,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RD-19585,2912.894,19,153.31021052631579,Rob Dowd,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CY-12745,2900.026,11,263.63872727272724,Craig Yedwab,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ND-18460,2893.455,8,361.681875,Neil Ducich,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MT-17815,2890.139,10,289.01390000000004,Meg Tillman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-11020,2888.506,21,137.54790476190476,Barry Französisch,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DS-13180,2881.8128,20,144.09064,David Smith,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PV-18985,2876.046,13,221.23430769230768,Paul Van Hugh,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+IM-15055,2872.63,4,718.1575,Ionia McGrath,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+CC-12430,2870.05,19,151.05526315789476,Chuck Clark,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CC-12685,2854.1150000000002,12,237.8429166666667,Craig Carroll,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AW-10930,2852.9680000000003,16,178.31050000000002,Arthur Wiediger,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EA-14035,2846.705,25,113.8682,Erin Ashbrook,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LS-16945,2845.27,14,203.23357142857142,Linda Southworth,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-12970,2839.2272,14,202.80194285714285,Darren Budd,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JM-16195,2833.926,19,149.154,Justin MacKendrick,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CV-12295,2830.628,13,217.7406153846154,Christina VanderZanden,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21610,2820.424,11,256.4021818181818,Troy Staebel,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GH-14410,2819.467,17,165.851,Gary Hansen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BG-11035,2798.948,12,233.24566666666666,Barry Gonzalez,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21625,2797.668,15,186.5112,Trudy Brown,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RD-19660,2786.632,5,557.3264,Robert Dilbeck,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JC-15775,2772.055,16,173.2534375,John Castell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PF-19165,2770.0,10,277.0,Philip Fox,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EB-13870,2767.219,11,251.56536363636363,Emily Burns,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-12250,2754.216,28,98.36485714285713,Chris Selesnick,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MM-18055,2749.881,19,144.7305789473684,Michelle Moray,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KB-16585,2744.742,23,119.33660869565219,Ken Black,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LL-16840,2741.2039999999997,12,228.43366666666665,Lauren Leatherbury,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MC-17275,2725.982,13,209.69092307692307,Marc Crier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JL-15850,2725.256,11,247.75054545454543,John Lucas,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ML-17395,2722.843,20,136.14215,Marina Lichtenstein,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JK-15370,2709.632,17,159.39011764705882,Jay Kimmel,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JE-16165,2697.248,7,385.3211428571429,Justin Ellison,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BT-11530,2684.492,10,268.4492,Bradley Talbott,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BO-11350,2682.728,12,223.56066666666666,Bill Overfelt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+FO-14305,2678.438,15,178.56253333333333,Frank Olsen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NH-18610,2673.29,11,243.02636363636364,Nicole Hansen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RB-19435,2663.0860000000002,16,166.44287500000002,Richard Bierner,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+EJ-14155,2656.6910000000003,8,332.08637500000003,Eva Jacobs,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DK-13090,2650.5570000000002,13,203.889,Dave Kipp,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CA-12265,2648.2872,17,155.78160000000003,Christina Anderson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LC-17140,2633.582,19,138.60957894736842,Logan Currie,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+RA-19285,2617.906,17,153.9944705882353,Ralph Arnett,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KN-16390,2617.272,17,153.95717647058822,Katherine Nockton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SO-20335,2602.5755,15,173.50503333333333,Sean O'Donnell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SU-20665,2595.364,18,144.1868888888889,Stephanie Ulpright,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+HA-14920,2584.158,18,143.56433333333334,Helen Andreada,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AG-10270,2582.898,14,184.4927142857143,Alejandro Grove,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LC-16870,2580.704,30,86.02346666666668,Lena Cacioppo,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SC-20695,2576.408,14,184.02914285714286,Steve Chapman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NS-18505,2575.863,15,171.7242,Neola Schneider,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BT-11305,2567.656,9,285.2951111111111,Beth Thompson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-13810,2567.0099999999998,7,366.7157142857142,Eleni McCrary,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MZ-17515,2564.906,10,256.4906,Mary Zewe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BS-11755,2562.382,14,183.0272857142857,Bruce Stewart,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DE-13255,2550.874,9,283.43044444444445,Deanra Eno,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CC-12610,2540.6310000000003,12,211.71925000000002,Corey Catlett,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AC-10615,2537.686,18,140.98255555555556,Ann Chong,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CM-12160,2533.314,7,361.902,Charles McCrossin,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HF-14995,2533.164,19,133.32442105263158,Herbert Flentye,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FM-14380,2523.266,14,180.23328571428573,Fred McMath,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JB-16045,2518.1150000000002,9,279.79055555555556,Julia Barnett,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JS-16030,2516.494,18,139.80522222222223,Joy Smith,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DJ-13510,2501.688,13,192.43753846153848,Don Jones,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AH-10465,2495.3916,8,311.92395,Amy Hunt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PO-18865,2493.214,13,191.7856923076923,Patrick O'Donnell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NZ-18565,2488.31,20,124.4155,Nick Zandusky,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MN-17935,2477.946,10,247.7946,Michael Nguyen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11290,2475.157,16,154.6973125,Beth Paige,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CC-12145,2471.65,11,224.69545454545457,Charles Crestani,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NC-18340,2461.404,17,144.7884705882353,Nat Carroll,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FM-14215,2456.638,15,163.77586666666667,Filia McAdams,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MH-17455,2456.1820000000002,11,223.28927272727276,Mark Hamilton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BS-11590,2454.928,10,245.4928,Brendan Sweed,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VM-21685,2454.866,12,204.57216666666667,Valerie Mitchum,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GZ-14545,2454.622,5,490.9244,George Zrebassa,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MA-17995,2453.284,12,204.44033333333334,Michelle Arnett,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11095,2442.044,20,122.1022,Bart Pistole,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MC-17590,2426.067,17,142.70982352941178,Matt Collister,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TH-21100,2422.824,7,346.11771428571427,Thea Hendricks,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MH-17290,2394.025,13,184.15576923076924,Marc Harrigan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DF-13135,2390.534,6,398.42233333333337,David Flashing,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+XP-21865,2374.658,28,84.80921428571428,Xylona Preis,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CK-12595,2372.75,25,94.91,Clytie Kelty,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JF-15415,2371.448,14,169.38914285714284,Jennifer Ferguson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CV-12805,2370.3136,19,124.75334736842105,Cynthia Voltz,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NR-18550,2367.277,13,182.09823076923078,Nick Radford,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JG-15115,2358.676,7,336.9537142857143,Jack Garza,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10495,2356.855,21,112.23119047619048,Andrew Gjertsen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CL-12700,2353.586,8,294.19825,Craig Leslie,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-17680,2350.188,10,235.0188,Maureen Gastineau,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RF-19735,2341.2960000000003,14,167.2354285714286,Roland Fjeld,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-13825,2339.598,16,146.224875,Elizabeth Moffitt,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DB-13210,2332.5769999999998,21,111.07509523809523,Dean Braden,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CM-12235,2305.712,8,288.214,Chris McAfee,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MK-17905,2302.368,17,135.43341176470588,Michael Kennedy,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+LH-16900,2295.332,15,153.02213333333333,Lena Hernandez,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KN-16705,2280.58,15,152.03866666666667,Kristina Nunn,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JF-15190,2279.586,19,119.97821052631578,Jamie Frazer,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+FH-14350,2271.284,14,162.23457142857143,Fred Harton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CC-12670,2269.7015,14,162.12153571428573,Craig Carreira,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BE-11410,2261.438,5,452.2876,Bobby Elias,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KM-16225,2260.958,19,118.99778947368422,Kalyca Meade,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MC-17605,2258.192,18,125.45511111111111,Matt Connell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JH-16180,2256.394,5,451.27879999999993,Justin Hirsh,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MY-17380,2254.285,13,173.40653846153845,Maribeth Yedwab,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KD-16615,2243.5099999999998,13,172.5776923076923,Ken Dana,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21505,2243.274,14,160.23385714285715,Tony Sayre,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JG-15310,2240.58,11,203.6890909090909,Jason Gross,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LW-16825,2238.061,15,149.20406666666668,Laurel Workman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AR-10405,2236.128,7,319.44685714285714,Allen Rosenblatt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GG-14650,2224.0,24,92.66666666666667,Greg Guthrie,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NC-18415,2218.9900000000002,14,158.49928571428572,Nathan Cano,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MC-18100,2218.98,19,116.78842105263158,Mick Crebagga,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DP-13105,2215.002,14,158.21442857142856,Dave Poirier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PF-19225,2206.128,10,220.61280000000002,Phillip Flathmann,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MH-17785,2203.7780000000002,11,200.34345454545456,Maya Herman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JL-15235,2203.7,10,220.36999999999998,Janet Lee,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JR-16210,2201.686,10,220.16860000000003,Justin Ritter,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EN-13780,2199.366,9,244.374,Edward Nazzal,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21280,2198.4500000000003,11,199.85909090909092,Toby Braunhardt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GW-14605,2189.0190000000002,9,243.22433333333336,Giulietta Weimer,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BT-11395,2186.6130000000003,10,218.66130000000004,Bill Tyler,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PS-18760,2181.479,21,103.87995238095237,Pamela Stobb,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SH-20395,2180.718,15,145.38119999999998,Shahid Hopkins,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+KN-16450,2171.962,8,271.49525,Kean Nguyen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DB-12910,2171.5989999999997,12,180.96658333333332,Daniel Byrd,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RP-19855,2170.716,15,144.71439999999998,Roy Phan,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+TS-21160,2163.6240000000003,17,127.27200000000002,Theresa Swint,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+HA-14905,2163.2999999999997,10,216.32999999999998,Helen Abelman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EJ-13720,2162.174,8,270.27175,Ed Jacobs,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NM-18520,2161.9790000000003,15,144.13193333333336,Neoma Murray,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+JD-15790,2152.352,7,307.4788571428571,John Dryer,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CR-12580,2148.852,6,358.142,Clay Rozendal,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DN-13690,2139.79,11,194.52636363636364,Duane Noonan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KC-16255,2120.954,10,212.0954,Karen Carlisle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SH-20635,2096.392,2,1048.196,Stefanie Holloman,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+LC-17050,2095.064,9,232.78488888888887,Liz Carlisle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RH-19600,2085.7400000000002,11,189.61272727272728,Rob Haberlin,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TG-21640,2074.661,10,207.4661,Trudy Glocke,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ML-17755,2071.914,13,159.37800000000001,Max Ludwig,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RB-19705,2067.45,7,295.34999999999997,Roger Barcio,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21430,2054.14,7,293.4485714285714,Tom Stivers,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AF-10870,2052.908,16,128.30675,Art Ferguson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CD-11920,2033.968,9,225.99644444444445,Carlos Daly,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NF-18595,2031.472,12,169.28933333333333,Nicole Fjeld,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DJ-13420,2012.52,5,402.504,Denny Joy,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VB-21745,2005.596,10,200.5596,Victoria Brennan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HP-14815,1990.314,10,199.03140000000002,Harold Pawlan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DB-13615,1989.05,11,180.82272727272726,Doug Bickford,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PG-18895,1987.164,17,116.892,Paul Gonzalez,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NB-18655,1972.599,17,116.03523529411764,Nona Balk,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+SW-20275,1966.6499999999999,7,280.95,Scott Williamson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LD-17005,1961.934,7,280.27628571428573,Lisa DeCherney,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CB-12415,1949.2,12,162.43333333333334,Christy Brittain,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TP-21565,1936.6399999999999,10,193.664,Tracy Poddar,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JO-15280,1934.272,11,175.84290909090907,Jas O'Carroll,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JF-15355,1911.844,16,119.49025,Jay Fein,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+ME-17725,1908.4532,13,146.80409230769231,Max Engle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SV-20935,1903.491,13,146.4223846153846,Susan Vittorini,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KD-16345,1888.964,10,188.8964,Katherine Ducich,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GD-14590,1888.07,6,314.67833333333334,Giulietta Dortch,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SG-20470,1884.798,14,134.62842857142857,Sheri Gordon,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LR-17035,1879.306,12,156.60883333333334,Lisa Ryan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SC-20440,1874.9979999999998,10,187.4998,Shaun Chance,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BG-11695,1874.172,8,234.2715,Brooke Gillingham,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SP-20650,1872.436,15,124.82906666666666,Stephanie Phelps,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NG-18355,1869.58,16,116.84875,Nat Gilpin,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CD-12790,1860.732,15,124.0488,Cynthia Delaney,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SN-20560,1860.4180000000001,15,124.02786666666667,Skye Norling,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PR-18880,1840.1779999999999,12,153.34816666666666,Patrick Ryan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AJ-10945,1839.24,10,183.924,Ashley Jarboe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PC-18745,1832.064,5,366.4128,Pamela Coakley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EG-13900,1832.02,9,203.55777777777777,Emily Grady,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PJ-19015,1824.2340000000002,10,182.42340000000002,Pauline Johnson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NC-18625,1821.742,9,202.41577777777778,Noah Childs,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JM-15265,1804.146,13,138.78046153846154,Janet Molinari,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JB-15400,1791.605,16,111.9753125,Jennifer Braxton,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AA-10480,1790.512,12,149.20933333333332,Andrew Allen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CC-12100,1770.945,13,136.22653846153847,Chad Cunningham,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DS-13030,1762.213,19,92.74805263157894,Darrin Sayre,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MF-18250,1758.3,12,146.525,Monica Federle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AH-10030,1744.7,11,158.60909090909092,Aaron Hawkins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LH-17155,1739.689,19,91.56257894736842,Logan Haushalter,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BW-11200,1738.406,10,173.8406,Ben Wallace,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VT-21700,1736.596,9,192.9551111111111,Valerie Takahito,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AH-10120,1735.5140000000001,16,108.46962500000001,Adrian Hane,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+MV-18190,1734.574,11,157.68854545454545,Mike Vittorini,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JM-15535,1733.443,10,173.3443,Jessica Myrick,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BE-11455,1727.652,13,132.8963076923077,Brad Eason,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DB-13405,1711.692,14,122.26371428571429,Denny Blanton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JP-16135,1707.71,13,131.3623076923077,Julie Prescott,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TZ-21580,1707.286,9,189.69844444444445,Tracy Zic,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11155,1697.861,11,154.351,Becky Pak,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DK-12985,1687.04,8,210.88,Darren Koutras,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MO-17800,1687.027,11,153.3660909090909,Meg O'Connel,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RA-19945,1686.9225,9,187.43583333333333,Ryan Akin,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KE-16420,1686.7312,15,112.44874666666666,Katrina Edelman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CA-12055,1679.7240000000002,10,167.97240000000002,Cathy Armstrong,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CM-11815,1673.8880000000001,10,167.3888,Candace McMahon,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JP-15460,1669.135,15,111.27566666666667,Jennifer Patt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CM-12115,1661.6100000000001,7,237.37285714285716,Chad McGuire,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CC-12475,1659.438,13,127.64907692307693,Cindy Chapman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EB-13975,1643.255,6,273.87583333333333,Erica Bern,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AP-10720,1638.5539999999999,19,86.2396842105263,Anne Pryor,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+AZ-10750,1622.018,12,135.16816666666668,Annie Zypern,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MS-17710,1613.402,15,107.56013333333334,Maurice Satty,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21250,1602.376,19,84.33557894736842,Tim Brockman,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CR-12730,1600.55,6,266.7583333333333,Craig Reiter,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AH-10195,1587.452,8,198.4315,Alan Haines,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-11215,1585.162,8,198.14525,Benjamin Farhat,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CK-12760,1582.109,14,113.0077857142857,Cyma Kinney,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MC-18130,1581.998,11,143.818,Mike Caudle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JL-15175,1571.523,7,224.5032857142857,James Lanier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KB-16315,1569.464,22,71.33927272727273,Karl Braun,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+GB-14530,1568.44,20,78.422,George Bell,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+ON-18715,1567.52,15,104.50133333333333,Odella Nelson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MV-17485,1560.05,15,104.00333333333333,Mark Van Huff,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MB-17305,1548.702,19,81.51063157894737,Maria Bertelson,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+BD-11620,1538.11,8,192.26375,Brian DeCherney,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CH-12070,1537.236,4,384.309,Cathy Hwang,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11725,1526.5,10,152.65,Bruce Degenhardt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BV-11245,1523.273,14,108.80521428571429,Benjamin Venier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KA-16525,1519.506,11,138.13690909090909,Kelly Andreada,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AB-10600,1515.862,8,189.48275,Ann Blume,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JG-15805,1507.018,9,167.44644444444444,John Grady,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DL-12865,1503.112,14,107.36514285714286,Dan Lawera,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ZD-21925,1493.944,9,165.99377777777778,Zuschuss Donatelli,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CM-12190,1475.144,7,210.73485714285715,Charlotte Melton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LE-16810,1469.45,9,163.27222222222224,Laurel Elliston,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21055,1467.881,18,81.54894444444444,Ted Butterfield,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PN-18775,1467.152,13,112.85784615384615,Parhena Norris,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RK-19300,1460.192,8,182.524,Ralph Kennedy,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BN-11515,1459.344,17,85.84376470588235,Bradley Nguyen,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DL-13315,1458.258,17,85.77988235294117,Delfina Latchford,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+PB-19150,1456.95,11,132.45000000000002,Philip Brown,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10525,1455.038,9,161.6708888888889,Andy Gerbode,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RM-19375,1453.474,9,161.4971111111111,Raymond Messe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PK-18910,1441.152,3,480.384,Paul Knutson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TD-20995,1434.548,16,89.65925,Tamara Dahlen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JW-16075,1428.731,7,204.10442857142857,Julia West,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MB-18085,1428.231,10,142.8231,Mick Brown,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TT-21220,1427.0439999999999,15,95.13626666666666,Thomas Thornton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CA-12310,1421.954,11,129.26854545454546,Christine Abelman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RD-19720,1419.737,20,70.98685,Roger Demir,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+NL-18310,1418.09,10,141.809,Nancy Lomonaco,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JS-15595,1417.654,8,177.20675,Jill Stevenson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PM-18940,1405.4019999999998,4,351.35049999999995,Paul MacIntyre,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GA-14725,1398.382,22,63.56281818181819,Guy Armstrong,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+CR-12820,1397.8724,7,199.69605714285714,Cyra Reiten,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NG-18430,1395.938,9,155.10422222222223,Nathan Gelder,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JE-15475,1388.682,13,106.8216923076923,Jeremy Ellison,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21595,1387.559,7,198.2227142857143,Troy Blackwell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+FG-14260,1383.144,11,125.74036363636364,Frank Gastineau,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DM-13525,1376.792,10,137.67919999999998,Don Miller,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GH-14485,1361.2440000000001,3,453.74800000000005,Gene Hale,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SB-20170,1348.02,7,192.5742857142857,Sarah Bern,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LM-17065,1346.774,7,192.3962857142857,Liz MacKendrick,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-17695,1342.282,7,191.7545714285714,Maureen Gnade,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SJ-20215,1341.036,10,134.1036,Sarah Jordon,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BM-11785,1338.842,14,95.63157142857143,Bryan Mills,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-11005,1333.88,10,133.388,Barry Franz,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SS-20140,1324.028,21,63.04895238095238,Saphhira Shifley,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DM-12955,1322.034,9,146.89266666666668,Dario Medina,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MT-18070,1319.4497999999999,11,119.94998181818181,Michelle Tran,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SJ-20500,1318.7759999999998,7,188.3965714285714,Shirley Jackson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MM-17260,1314.0230000000001,6,219.00383333333335,Magdelene Morse,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SP-20545,1306.086,10,130.6086,Sibella Parks,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MC-17575,1303.893,11,118.53572727272727,Matt Collins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EK-13795,1303.4779999999998,4,325.86949999999996,Eileen Kiefer,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+Co-12640,1300.076,8,162.5095,Corey-Lock,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DO-13435,1300.0315,13,100.00242307692308,Denny Ordway,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HR-14770,1299.288,13,99.94523076923078,Hallie Redmond,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GR-14560,1284.38,5,256.87600000000003,Georgia Rosenberg,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-11845,1278.954,8,159.86925,Cari Sayre,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PS-18970,1278.639,13,98.35684615384615,Paul Stevenson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SV-20815,1271.0900000000001,6,211.84833333333336,Stuart Van,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DO-13645,1267.316,11,115.21054545454545,Doug O'Connell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CL-11890,1262.0140000000001,7,180.28771428571432,Carl Ludwig,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LW-17125,1259.04,5,251.808,Liz Willingham,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ME-18010,1256.944,6,209.49066666666667,Michelle Ellison,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GM-14500,1255.682,13,96.59092307692308,Gene McClure,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SC-20680,1254.64,8,156.83,Steve Carroll,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MH-17620,1252.8,6,208.79999999999998,Matt Hagelstein,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ER-13855,1245.788,5,249.1576,Elpida Rittenbach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TC-21475,1244.976,11,113.17963636363638,Tony Chapman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JW-15955,1244.086,11,113.09872727272727,Joni Wasserman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-17875,1242.8329999999999,7,177.54757142857142,Michael Grace,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NP-18685,1228.698,7,175.52828571428572,Nora Pelletier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PJ-18835,1220.09,13,93.85307692307691,Patrick Jones,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EH-14005,1219.53,11,110.86636363636363,Erica Hernandez,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JL-15130,1214.956,12,101.24633333333333,Jack Lebron,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CD-12280,1205.584,13,92.73723076923078,Christina DeMoss,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MD-17860,1204.91,8,150.61375,Michael Dominguez,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DW-13585,1204.854,10,120.4854,Dorothy Wardle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EB-14170,1186.326,7,169.47514285714286,Evan Bailliet,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11230,1181.49,6,196.915,Benjamin Patterson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DC-13285,1174.618,7,167.8025714285714,Debra Catini,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AT-10435,1171.814,9,130.20155555555556,Alyssa Tate,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JR-15670,1156.658,3,385.55266666666665,Jim Radford,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DB-13660,1155.202,10,115.5202,Duane Benoit,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CG-12520,1148.78,5,229.756,Claire Gute,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KC-16675,1146.05,7,163.72142857142856,Kimberly Carter,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RD-19810,1137.616,16,71.101,Ross DeVincentis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CW-11905,1136.592,11,103.32654545454547,Carl Weiss,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JS-15685,1131.064,11,102.82400000000001,Jim Sink,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DV-13045,1119.483,9,124.387,Darrin Van Huff,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AB-10165,1113.838,14,79.55985714285714,Alan Barnes,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TM-21490,1094.6779999999999,4,273.66949999999997,Tony Molinari,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JO-15550,1090.838,11,99.1670909090909,Jesus Ocampo,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SW-20245,1085.078,10,108.5078,Scot Wooten,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JF-15490,1082.918,15,72.19453333333333,Jeremy Farry,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DB-13360,1081.466,6,180.24433333333332,Dennis Bolton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DW-13195,1080.751,9,120.08344444444444,David Wiener,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-12490,1077.2285,9,119.69205555555556,Cindy Schnelling,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PC-19000,1061.488,3,353.82933333333335,Pauline Chand,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DP-13165,1058.616,4,264.654,David Philippe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JC-15385,1058.108,4,264.527,Jenna Caffey,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PO-19195,1056.858,10,105.6858,Phillina Ober,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AA-10375,1056.39,15,70.426,Allen Armold,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VS-21820,1055.981,8,131.997625,Vivek Sundaresam,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AR-10345,1055.694,5,211.1388,Alex Russell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DP-13000,1050.636,17,61.80211764705882,Darren Powers,1,Regular Customers,Cross-sell relevant bundles and targeted volume discounts to raise average order value
+DH-13675,1043.096,11,94.8269090909091,Duane Huffman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SM-20905,1043.041,6,173.84016666666665,Susan MacKendrick,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-14095,1041.0420000000001,10,104.10420000000002,Eudokia Martin,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TC-21145,1038.26,4,259.565,Theresa Coyne,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MK-18160,1031.602,11,93.78200000000001,Mike Kennedy,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TH-21235,1022.201,13,78.63084615384615,Tiffany House,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SW-20350,1019.044,6,169.84066666666666,Sean Wendt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LS-17200,1010.256,14,72.16114285714285,Luke Schmidt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RB-19330,1008.196,6,168.03266666666667,Randy Bradley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LS-17245,1008.136,12,84.01133333333333,Lynn Smith,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BG-11740,1006.356,7,143.76514285714285,Bruce Geld,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VP-21730,993.9019999999999,5,198.7804,Victor Preis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KB-16600,983.922,9,109.32466666666667,Ken Brennan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BP-11050,983.42,7,140.48857142857142,Barry Pond,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21340,974.782,12,81.23183333333334,Toby Swindell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RD-19930,970.942,10,97.0942,Russell D'Ascenzo,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AB-10150,966.71,12,80.55916666666667,Aimee Bixby,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RC-19825,966.409,10,96.6409,Roy Collins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SS-20875,964.636,15,64.30906666666667,Sung Shariari,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JH-15910,959.477,9,106.60855555555555,Jonathan Howell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JF-15295,955.124,14,68.22314285714286,Jason Fortune-,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RP-19270,954.6452,12,79.55376666666668,Rachel Payne,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BS-11800,949.43,8,118.67875,Bryan Spruell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RF-19840,945.222,11,85.92927272727273,Roy Französisch,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EB-13930,944.6,7,134.94285714285715,Eric Barreto,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MF-17665,937.039,8,117.129875,Maureen Fritzler,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-13960,933.704,6,155.61733333333333,Eric Murdock,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AC-10420,925.8,5,185.16,Alyssa Crouse,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EH-14185,923.884,8,115.4855,Evan Henry,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MO-17500,922.487,5,184.4974,Mary O'Rourke,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AB-10255,914.5319999999999,14,65.32371428571427,Alejandro Ballentine,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KB-16405,908.821,9,100.98011111111111,Katrina Bavinger,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CG-12040,904.4680000000001,9,100.49644444444445,Catherine Glotzbach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SC-20575,902.7280000000001,7,128.96114285714287,Sonia Cooley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JB-15925,900.552,8,112.569,Joni Blumstein,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HZ-14950,886.52,6,147.75333333333333,Henia Zydlo,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AB-10015,886.156,6,147.69266666666667,Aaron Bergman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RC-19960,885.752,11,80.52290909090908,Ryan Crowe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-12130,884.64,7,126.37714285714286,Chad Sievert,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HE-14800,883.532,11,80.32109090909091,Harold Engle,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SK-19990,883.409,5,176.6818,Sally Knutson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RE-19450,876.696,9,97.41066666666667,Richard Eichhorn,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JM-15655,864.947,12,72.07891666666667,Jim Mitchum,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JR-15700,863.88,1,863.88,Jocasta Rupert,0,High-Value Customers,"VIP retention, dedicated account support, loyalty exclusivity and early product access"
+AF-10885,861.5649999999999,7,123.08071428571428,Art Foster,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JC-16105,858.576,9,95.39733333333334,Julie Creighton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MS-17980,855.116,11,77.73781818181818,Michael Stewart,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VF-21715,847.944,11,77.08581818181818,Vicky Freymann,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VG-21790,846.01,8,105.75125,Vivek Gonzalez,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-12175,844.4580000000001,8,105.55725000000001,Charles Sheldon,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21355,834.328,13,64.17907692307692,Todd Boyes,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AS-10630,833.398,12,69.44983333333333,Ann Steele,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EH-13990,825.9499999999999,8,103.24374999999999,Erica Hackney,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TB-21190,816.1740000000001,4,204.04350000000002,Thomas Brumley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AM-10360,814.012,12,67.83433333333333,Alice McCarthy,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BM-11575,808.162,10,80.81620000000001,Brendan Murry,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DK-13150,797.832,5,159.5664,David Kendrick,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MC-17635,795.154,8,99.39425,Matthew Clasen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-11275,791.99,4,197.9975,Beth Fritzler,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HG-14845,785.628,10,78.56280000000001,Harry Greene,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-17890,776.384,13,59.72184615384616,Michael Granlund,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MM-18280,775.414,12,64.61783333333334,Muhammed MacIntyre,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SF-20065,763.546,9,84.83844444444445,Sandra Flanagan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SW-20755,758.6959999999999,8,94.83699999999999,Steven Ward,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LP-17080,756.606,9,84.06733333333334,Liz Pelletier,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+Dl-13600,755.602,6,125.93366666666667,Dorris liebe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+IG-15085,744.574,7,106.36771428571429,Ivan Gibson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BB-10990,744.34,8,93.0425,Barry Blumstein,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TC-21535,742.558,10,74.2558,Tracy Collins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ML-18040,742.082,4,185.5205,Michelle Lonsdale,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RH-19555,740.382,3,246.79399999999998,Ritsa Hightower,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PB-18805,740.356,10,74.0356,Patrick Bzostek,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AH-10585,738.504,5,147.70080000000002,Angele Hood,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HM-14980,736.276,7,105.18228571428571,Henry MacAllister,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PH-18790,729.648,2,364.824,Patricia Hirasaki,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PA-19060,729.408,7,104.20114285714286,Pete Armstrong,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JJ-15445,709.178,6,118.19633333333333,Jennifer Jackson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JD-16060,695.442,6,115.907,Julia Dunbar,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PB-19105,688.324,5,137.66479999999999,Peter Bühler,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EH-13945,684.1709999999999,17,40.24535294117646,Eric Hoffmann,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TR-21325,675.942,7,96.56314285714286,Toby Ritter,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10330,660.972,9,73.44133333333333,Alex Grayson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BK-11260,659.138,16,41.196125,Berenike Kampe,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11770,658.466,10,65.8466,Bryan Davis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AC-10660,657.316,6,109.55266666666667,Anna Chung,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AW-10840,649.376,8,81.172,Anthony Witt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LO-17170,644.35,9,71.59444444444445,Lori Olson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JB-16000,644.1188,7,92.01697142857142,Joy Bell-,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CD-11980,639.766,6,106.62766666666666,Carol Darley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MR-17545,639.178,6,106.52966666666667,Mathew Reese,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AJ-10960,629.2479999999999,5,125.84959999999998,Astrea Jones,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RR-19315,615.932,4,153.983,Ralph Ritter,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SS-20515,613.4,6,102.23333333333333,Shirley Schmidt,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BT-11440,603.876,7,86.268,Bobby Trafton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-10975,599.798,13,46.13830769230769,Barbara Fisher,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MZ-17335,593.606,6,98.93433333333333,Maria Zettner,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DL-13330,585.02,8,73.1275,Denise Leinenbach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AS-10240,584.6080000000001,13,44.969846153846156,Alan Shonely,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11635,582.646,5,116.52919999999999,Brian Derr,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NK-18490,572.048,11,52.004363636363635,Neil Knudson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CM-11935,565.392,4,141.348,Carlos Meador,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-12460,550.644,6,91.774,Chuck Sachs,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CS-11860,537.632,7,76.80457142857142,Cari Schnelling,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JH-15820,528.91,8,66.11375,John Huston,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RB-19570,528.546,9,58.72733333333334,Rob Beeghly,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AY-10555,497.014,10,49.7014,Andy Yotov,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CR-12625,475.9,4,118.975,Corey Roper,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MS-17530,475.656,7,67.95085714285715,MaryBeth Skach,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JS-15940,469.169,8,58.646125,Joni Sundaresam,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EC-14050,461.914,7,65.98771428571429,Erin Creighton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KM-16660,453.538,9,50.39311111111111,Khloe Miller,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KW-16570,449.096,5,89.8192,Kelly Williams,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TT-21265,439.5,3,146.5,Tim Taslimi,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ST-20530,433.34,12,36.111666666666665,Shui Tom,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VG-21805,427.372,6,71.22866666666667,Vivek Grady,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SS-20590,418.49,9,46.49888888888889,Sonia Sunley,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BT-11485,415.19599999999997,3,138.39866666666666,Brad Thomas,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MH-17440,400.016,9,44.446222222222225,Mark Haberlin,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BW-11065,385.516,3,128.50533333333334,Barry Weirich,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JD-16015,385.43,11,35.03909090909091,Joy Daniels,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JK-15325,383.81199999999995,4,95.95299999999999,Jason Klamczynski,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+VM-21835,380.69,8,47.58625,Vivian Mathis,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NF-18475,377.16200000000003,4,94.29050000000001,Neil Französisch,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MS-17830,370.348,5,74.06960000000001,Melanie Seite,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LS-17230,368.88,6,61.48,Lycoris Saunders,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10300,367.548,5,73.5096,Aleksandra Gannaway,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-14200,366.822,4,91.7055,Evan Minnotte,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HJ-14875,358.1,6,59.68333333333334,Heather Jas,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DW-13540,344.08,9,38.23111111111111,Don Weiss,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LT-16765,329.876,3,109.95866666666666,Larry Tron,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BD-11560,320.54,4,80.135,Brendan Dodson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LH-17020,318.239,6,53.03983333333333,Lisa Hazard,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JH-15430,309.281,7,44.183,Jennifer Halladay,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JM-15580,303.948,7,43.421142857142854,Jill Matthias,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CM-12445,287.99,9,31.99888888888889,Chuck Magee,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LH-16750,287.426,3,95.80866666666667,Larry Hughes,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SC-20845,280.632,4,70.158,Sung Chung,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SC-20800,279.25600000000003,5,55.851200000000006,Stuart Calhoun,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+NB-18580,273.87199999999996,2,136.93599999999998,Nicole Brennan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BF-11080,272.95,6,45.49166666666667,Bart Folk,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DD-13570,269.542,9,29.949111111111108,Dorothy Dickinson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BN-11470,265.296,6,44.216,Brad Norvell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AR-10510,264.864,7,37.837714285714284,Andrew Roberts,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HD-14785,251.36,7,35.90857142857143,Harold Dahlen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SM-20005,244.494,6,40.749,Sally Matthias,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PL-18925,239.481,8,29.935125,Paul Lucas,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GP-14740,236.53,5,47.306,Guy Phonely,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EM-14065,228.98999999999998,6,38.165,Erin Mull,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GT-14755,226.436,7,32.348,Guy Thornton,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RB-19645,221.084,7,31.583428571428573,Robert Barroso,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+HH-15010,218.668,6,36.44466666666667,Hilary Holden,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10390,200.945,8,25.118125,Allen Goldenen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JJ-15760,195.0,3,65.0,Joel Jenkins,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AG-10765,170.584,5,34.1168,Anthony Garverick,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+ML-18265,162.232,3,54.077333333333335,Muhammed Lee,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AO-10810,161.28,1,161.28,Anthony O'Donnell,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PT-19090,160.572,7,22.93885714285714,Pete Takahito,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+DA-13450,156.76,8,19.595,Dianna Arnett,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MO-17950,154.288,4,38.572,Michael Oakman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+GH-14665,146.9408,3,48.980266666666665,Greg Hansen,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+PB-19210,132.738,2,66.369,Phillip Breyer,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+BO-11425,130.83,2,65.415,Bobby Odegard,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+EL-13735,124.28,2,62.14,Ed Ludwig,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CC-12550,113.832,4,28.458,Clay Cheatham,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RM-19750,98.35,2,49.175,Roland Murray,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+KS-16300,88.472,4,22.118,Karen Seio,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AR-10570,88.15,2,44.075,Anemone Ratner,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+FW-14395,79.75,3,26.583333333333332,Fred Wasserman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+JC-15340,71.26299999999999,4,17.815749999999998,Jasper Cacioppo,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+AS-10135,58.82,3,19.606666666666666,Adrian Shami,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LB-16735,50.188,3,16.729333333333333,Larry Blacks,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RE-19405,48.36,1,48.36,Ricardo Emerson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+SG-20890,47.946,5,9.5892,Susan Gilcrest,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+RS-19870,22.328,3,7.442666666666667,Roy Skaria,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+MG-18205,16.739,2,8.3695,Mitch Gastineau,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+CJ-11875,16.52,1,16.52,Carl Jackson,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+LD-16855,5.304,1,5.304,Lela Donovan,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
+TS-21085,4.833,2,2.4165,Thais Sissman,2,Low-Value Customers,"Reactivation emails, flash discounts and entry-level promotion bundles"
